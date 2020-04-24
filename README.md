@@ -1,6 +1,11 @@
 
 ## Available Scripts
 
+### `docker-compose up`
+
+To run a containerised version of the app
+
+
 In the project directory, you should run:
 
 ### `npm start`
