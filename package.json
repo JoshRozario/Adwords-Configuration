@@ -16,7 +16,7 @@
     "mysql": "^2.18.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "uuid": "^7.0.2",
     "xmlhttprequest": "^1.8.0"
   },
